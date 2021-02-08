@@ -12,8 +12,5 @@
     "course"
   ],
   "author": "Maximilian Schwarzmüller",
-  "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+  "license": "ISC"
 }
