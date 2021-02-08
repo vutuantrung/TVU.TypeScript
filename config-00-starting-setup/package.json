@@ -12,5 +12,11 @@
     "course"
   ],
   "author": "Maximilian Schwarzmüller",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.0",
+    "@typescript-eslint/parser": "^4.15.0",
+    "eslint": "^7.19.0",
+    "lite-server": "^2.5.4"
+  }
 }

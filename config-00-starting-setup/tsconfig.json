@@ -23,7 +23,7 @@
     // "composite": true,                     /* Enable project compilation */
     // "tsBuildInfoFile": "./",               /* Specify file to store incremental compilation information */
     "removeComments": true, /* Do not emit comments to output. */
-    // "noEmit": true,                        /* Do not emit outputs. */
+    // "noEmit": true, /* Do not emit outputs. */
     "noEmitOnError": true, /* Do not emit putputs when error occured. */
     // "importHelpers": true,                 /* Import emit helpers from 'tslib'. */
     // "downlevelIteration": true,            /* Provide full support for iterables in 'for-of', spread, and destructuring when targeting 'ES5' or 'ES3'. */
@@ -67,7 +67,7 @@
     "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
   },
   "exclude": [
-    "**/*.dev.ts",
+    "**/*.dev.ts"
     //"node_modules" // would be default
   ]
 }
