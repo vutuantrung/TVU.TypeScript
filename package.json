@@ -5,7 +5,9 @@
   "description": "TVU.TypeScript",
   "workspaces": [
     "common",
-    "first-project"
+    "first-project",
+    "course-starting-project",
+    "basics-03-core-data-types"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
